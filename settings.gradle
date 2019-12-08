@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':permissionrequest'
 rootProject.name='Permission Request'

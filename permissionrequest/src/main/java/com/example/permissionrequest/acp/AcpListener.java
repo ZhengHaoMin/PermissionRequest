@@ -1,4 +1,4 @@
-package com.hsrj.permissionrequest.acp;
+package com.example.permissionrequest.acp;
 
 import java.util.List;
 

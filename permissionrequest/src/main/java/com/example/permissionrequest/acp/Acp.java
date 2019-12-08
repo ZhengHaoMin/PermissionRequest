@@ -1,4 +1,4 @@
-package com.hsrj.permissionrequest.acp;
+package com.example.permissionrequest.acp;
 
 import android.content.Context;
 
